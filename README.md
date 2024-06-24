@@ -23,4 +23,4 @@ Uninstall any previous version of Spotify already installed on your Desktop
  Enjoy ad-free music and podcasts
 
 ## Related Projects
-Check out our [project blog]([https://www.premiumspotify.net/]) for more insights.
+Check out our [project blog](https://www.premiumspotify.net/) for more insights.
