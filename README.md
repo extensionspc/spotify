@@ -7,7 +7,8 @@ Desktop MOD (ad free)
 - Installation
 
 ## About
-Spotify-Desktop_v1.1.22.633 Modified version of Spotify, removes all on screen advertisements and advertisements between songs.
+Spotify-Desktop_v1.1.22.633 Modified version of Spotify, 
+Removes all on screen advertisements and advertisements between songs.
 
 ## Prerequisite
 Uninstall any previous version of Spotify already installed on your Desktop
@@ -21,8 +22,5 @@ Uninstall any previous version of Spotify already installed on your Desktop
  Open Spotify and login
  Enjoy ad-free music and podcasts
 
-## Visit Our Website
-For more information, 
-
 ## Related Projects
-Check out our [project blog](https://yourwebsite.com/blog) for more insights.
+Check out our [project blog]([https://www.premiumspotify.net/]) for more insights.
