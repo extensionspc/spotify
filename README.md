@@ -1,5 +1,5 @@
 # Spotify Premium
-APK MOD (ad-free)
+MOD APK (ad-free)
 
 ## Features
 - About
